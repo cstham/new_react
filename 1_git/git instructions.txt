@@ -13,6 +13,7 @@
 1. At local folder, type "git init".
 2. Create .gitgnore file (Skip this step if already cloned from sample projects).
 3. Use function 'firstgit' and subsequent git use 'fastgit'.
+4. aaaa
 
 
 git pull origin master --allow-unrelated-histories
