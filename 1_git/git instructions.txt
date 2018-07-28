@@ -1,0 +1,8 @@
+//To create new method/function to be recognised by shell
+
+1.  Edit .bashrc file of Cmder (Shell) to include "source ~/.cstham_commands.sh".
+	- In this case, the function shall be referenced in file 'cstham_commands.sh'.
+	- Add "source ~/.cstham_commands.sh" to last line of .bashrc file.
+
+2.	fastgit "commit message" to replace git add, commit and push.
+
