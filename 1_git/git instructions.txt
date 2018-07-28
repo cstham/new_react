@@ -6,3 +6,13 @@
 
 2.	fastgit "commit message" to replace git add, commit and push.
 
+
+//===============================================================================
+//If new repository created directly on github
+
+1. At local folder, type "git init".
+2. Create .gitgnore file (Skip this step if cloned from sample projects).
+3. 
+
+
+git pull origin master --allow-unrelated-histories
