@@ -16,3 +16,6 @@
 
 
 git pull origin master --allow-unrelated-histories
+
+//to remove folder from git, but not from local folder
+git rm -r --cached myFolder
