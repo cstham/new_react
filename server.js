@@ -4,7 +4,8 @@
 
 //2) npm install nodemon
 //3) npm install express
-//4) use "npm start" to start nodemon (realtime live changes)
+//4) npm install body-parser
+//5) use "npm start" to start nodemon (realtime live changes)
 
 
 const express = require('express');
