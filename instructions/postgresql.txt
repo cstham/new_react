@@ -1,0 +1,13 @@
+//POSTGRESQL INITIAL SET-UP
+1. psql -U postgres 
+2. type the following commands upon entering psql console:
+
+	CREATE USER cstha2 WITH PASSWORD 'science';
+  	CREATE DATABASE test OWNER cstha2;
+
+3. exit psql terminal
+4. psql 'test'
+
+//CREATE TABLE
+CREATE TABLE users (name text, age smallint, birthday date);
+\d (to read table in psql console)
