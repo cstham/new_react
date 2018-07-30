@@ -7,7 +7,9 @@
 //5) npm install bcrypt-nodejs (to hash passwords)
 //6) npm install cors (to connect front-end to back-end)
 //7) npm install knex (database)
-//8) use "npm start" to start nodemon (realtime live changes)
+//8) npm install pg (install postgresql in knex)
+//		-refer to https://knexjs.org/ based on database type
+//9) use "npm start" to start nodemon (realtime live changes)
 
 
 //BACKEND INSTALLATION
